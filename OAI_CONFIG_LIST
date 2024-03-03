@@ -18,49 +18,67 @@
         "api_type": "openai"
     },
     {
+        "model": "command-nightly",
+        "base_url": "https://api.cohere.ai/v1",
+        "api_key": "sk-1234",
+        "api_type": "openai"
+    }, 
+    {
+        "model": "llama2-70b-4096",
+        "base_url": "https://api.groq.com/openai/v1",
+        "api_key": "sk-1234",
+        "api_type": "openai"
+    },
+    {
+        "model": "mixtral-8x7b-32768",
+        "base_url": "https://api.groq.com/openai/v1",
+        "api_key": "sk-1234",
+        "api_type": "openai"
+    },        
+    {
         "model": "gpt-4",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-4-0613",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-4-0314",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-4-1106-preview",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-4-vision-preview",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-3.5-turbo",
-        "api_key": "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",
+        "api_key": "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",
         "base_url": "https://tnrllmproxy.azurewebsites.net/v1"
     },
     {
         "model": "gpt-3.5-turbo-1106",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-3.5-turbo-0613",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-3.5-turbo-16k",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "gpt-3.5-turbo-16k-0613",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "dalle",
-        "api_key": "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"
+        "api_key": "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"
     },
     {
         "model": "accounts/fireworks/models/qwen-72b-chat",
